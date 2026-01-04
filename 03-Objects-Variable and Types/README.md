@@ -8,6 +8,9 @@ It covers core concepts that are essential for **PowerShell scripting, automatio
 
 ## 🧠 Conceptual Understanding (Blueprint Example)
 
+![Uploading image.png…]()
+
+
 To understand how PowerShell works with objects, I followed a **real-world blueprint analogy**:
 
 ### 🚗 Car as a Blueprint (Type)
