@@ -8,7 +8,7 @@ It covers core concepts that are essential for **PowerShell scripting, automatio
 
 ## 🧠 Conceptual Understanding (Blueprint Example)
 
-![Uploading image.png…]()
+<img width="522" height="408" alt="image" src="https://github.com/user-attachments/assets/c06d09aa-c20c-4d62-8890-d4fe07723fcd" />
 
 
 To understand how PowerShell works with objects, I followed a **real-world blueprint analogy**:
