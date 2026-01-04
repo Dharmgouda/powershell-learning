@@ -1,1 +1,38 @@
 
+
+---
+
+## 📄 `README.md` (Folder-level README)
+
+```markdown
+# Windows PowerShell Syntax
+
+This folder contains scripts and notes created while learning
+**Windows PowerShell Syntax**.
+
+---
+
+## Topics Covered
+- Verb–Noun naming convention
+- Command discovery using Get-Command
+- Wildcards in command search
+- Aliases and command shortcuts
+- Understanding cmdlet syntax and parameters
+
+---
+
+## Key Commands Practiced
+- Get-Command
+- Get-Alias
+- Get-Service
+- Copy-Item
+
+---
+
+## Learning Method
+Watch → Practice → Explore → Document → Push to GitHub
+
+---
+
+## Author
+Dharmgouda Maradi
